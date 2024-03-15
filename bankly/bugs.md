@@ -1,0 +1,2 @@
+- Removed Duplicated `module.exports = app;`
+- Fixed get route in users.js to only show basic info
